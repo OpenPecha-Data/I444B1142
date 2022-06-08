@@ -1,0 +1,27 @@
+id: I444B1142
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-31T07:39:13+00:00'
+last_modified: '2022-06-08T02:23:40.971060+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1KG16787
+  title: ཚ་བ་རིང་མདའ་རྫོང་།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: true
+  base:
+    C926:
+      image_group_id: I1KG16896
+      title: ''
+      total_pages: 518
+      order: 1
+      base_file: C926.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
